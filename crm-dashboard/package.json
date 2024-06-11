@@ -1,0 +1,25 @@
+{
+  "name": "crm-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "latest"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "latest",
+    "@babel/preset-env": "latest",
+    "@babel/preset-react": "latest",
+    "babel-plugin-styled-components": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
